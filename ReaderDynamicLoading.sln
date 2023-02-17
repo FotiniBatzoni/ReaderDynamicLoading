@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{73
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People.Service", "People.Service\People.Service.csproj", "{4333DE02-D7B1-4C56-A700-53035AC4DD92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleViewer", "PeopleViewer\PeopleViewer.csproj", "{8C541DC8-D541-46BA-BE3B-5D4E5E14AE53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4333DE02-D7B1-4C56-A700-53035AC4DD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4333DE02-D7B1-4C56-A700-53035AC4DD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4333DE02-D7B1-4C56-A700-53035AC4DD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C541DC8-D541-46BA-BE3B-5D4E5E14AE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C541DC8-D541-46BA-BE3B-5D4E5E14AE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C541DC8-D541-46BA-BE3B-5D4E5E14AE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C541DC8-D541-46BA-BE3B-5D4E5E14AE53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
