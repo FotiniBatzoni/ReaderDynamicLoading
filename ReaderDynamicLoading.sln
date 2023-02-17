@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonReader.Factory", "PersonReader.Factory\PersonReader.Factory.csproj", "{D04F69EC-55BB-473A-9807-320BAB26EB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonReader.Interface", "PersonReader.Interface\PersonReader.Interface.csproj", "{9682CD2C-714B-4214-A234-76C2ABAFFC47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04F69EC-55BB-473A-9807-320BAB26EB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04F69EC-55BB-473A-9807-320BAB26EB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04F69EC-55BB-473A-9807-320BAB26EB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04F69EC-55BB-473A-9807-320BAB26EB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9682CD2C-714B-4214-A234-76C2ABAFFC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9682CD2C-714B-4214-A234-76C2ABAFFC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9682CD2C-714B-4214-A234-76C2ABAFFC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9682CD2C-714B-4214-A234-76C2ABAFFC47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6AFE24B-2410-4D07-86E8-31C3AEF7CC8C}
+	EndGlobalSection
+EndGlobal
