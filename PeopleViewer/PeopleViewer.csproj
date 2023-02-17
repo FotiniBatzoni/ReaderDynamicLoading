@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\People.Service\People.Service.csproj" />
+    <ProjectReference Include="..\PersonReader.Factory\PersonReader.Factory.csproj" />
+    <ProjectReference Include="..\PersonReader.Interface\PersonReader.Interface.csproj" />
+    <ProjectReference Include="..\PersonReader.Service\PersonReader.Service.csproj" />
+    <ProjectReference Include="..\PersonReader.SQL\PersonReader.SQL.csproj" />
+  </ItemGroup>
+
 </Project>
