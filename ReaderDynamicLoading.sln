@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonReader.Service", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonReader.SQL", "PersonReader.SQL\PersonReader.SQL.csproj", "{83A92C4E-1EE3-4203-B9A4-DC76F9B4CCE2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{73C55FEB-86AE-4F93-BA92-C45FA07E9D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People.Service", "People.Service\People.Service.csproj", "{4333DE02-D7B1-4C56-A700-53035AC4DD92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{83A92C4E-1EE3-4203-B9A4-DC76F9B4CCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A92C4E-1EE3-4203-B9A4-DC76F9B4CCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A92C4E-1EE3-4203-B9A4-DC76F9B4CCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4333DE02-D7B1-4C56-A700-53035AC4DD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4333DE02-D7B1-4C56-A700-53035AC4DD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4333DE02-D7B1-4C56-A700-53035AC4DD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4333DE02-D7B1-4C56-A700-53035AC4DD92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +61,7 @@ Global
 		{3AFF60CD-908C-4D37-A139-24A4A795BF70} = {E4119DBA-0250-433E-B0B7-4ED09B66F38E}
 		{C034C26C-C036-4B43-8FD4-F2FE54B35DE2} = {E4119DBA-0250-433E-B0B7-4ED09B66F38E}
 		{83A92C4E-1EE3-4203-B9A4-DC76F9B4CCE2} = {E4119DBA-0250-433E-B0B7-4ED09B66F38E}
+		{4333DE02-D7B1-4C56-A700-53035AC4DD92} = {73C55FEB-86AE-4F93-BA92-C45FA07E9D10}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A6AFE24B-2410-4D07-86E8-31C3AEF7CC8C}
